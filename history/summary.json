@@ -4,18 +4,20 @@
     "url": "https://serversium.com/",
     "icon": "https://icons.duckduckgo.com/ip3/serversium.com.ico",
     "slug": "serversium-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 881,
-    "timeDay": 1251,
-    "timeWeek": 834,
-    "timeMonth": 881,
-    "timeYear": 881,
-    "dailyMinutesDown": {}
+    "time": 1700,
+    "timeDay": 10482,
+    "timeWeek": 3194,
+    "timeMonth": 1700,
+    "timeYear": 1700,
+    "dailyMinutesDown": {
+      "2026-05-20": 0
+    }
   },
   {
     "name": "IPv6 test",
