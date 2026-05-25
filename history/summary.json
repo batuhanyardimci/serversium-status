@@ -4,20 +4,20 @@
     "url": "https://serversium.com/",
     "icon": "https://icons.duckduckgo.com/ip3/serversium.com.ico",
     "slug": "serversium-web",
-    "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
-    "time": 1484,
-    "timeDay": 500,
-    "timeWeek": 2716,
-    "timeMonth": 1484,
-    "timeYear": 1484,
+    "status": "up",
+    "uptime": "99.56%",
+    "uptimeDay": "94.19%",
+    "uptimeWeek": "98.50%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.56%",
+    "time": 1463,
+    "timeDay": 607,
+    "timeWeek": 2544,
+    "timeMonth": 1463,
+    "timeYear": 1463,
     "dailyMinutesDown": {
       "2026-05-20": 67,
-      "2026-05-25": 0
+      "2026-05-25": 84
     }
   },
   {
